@@ -1,3 +1,3 @@
 # arz_shop
- shop for Arz Brainburg
- yes still bad
+shop for Arz Brainburg
+yes still bad
